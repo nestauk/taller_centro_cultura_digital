@@ -22,11 +22,11 @@ In your Terminal (Mac) or Command Prompt (Windows) navigate to Documents:
 
 Windows:
 
-    cd \Users\[user name]\Documents
+    cd \Users\[user name]\Documents\taller_centro_cultura_digital
 
 Mac:
 
-    cd /Users/[user name]/Documents
+    cd /Users/[user name]/Documents/taller_centro_cultura_digital
 
 and run:
 
