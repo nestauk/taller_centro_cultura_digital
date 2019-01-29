@@ -14,6 +14,8 @@ Open your Terminal (Mac) or Command Prompt (Windows) and type the following:
     python3 -m pip install -U pandas
     python3 -m pip install -U requests
     python3 -m pip install -U retrying
+    python3 -m pip install -U beautifulsoup4
+    python3 -m pip install -U lxml
 
 ## Choose a tutorial
 
